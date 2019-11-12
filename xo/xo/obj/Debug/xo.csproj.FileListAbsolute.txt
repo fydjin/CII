@@ -1,0 +1,14 @@
+C:\VS2019\ro\xo\xo\xo\bin\Debug\xo.exe.config
+C:\VS2019\ro\xo\xo\xo\bin\Debug\xo.exe
+C:\VS2019\ro\xo\xo\xo\bin\Debug\xo.pdb
+C:\VS2019\ro\xo\xo\xo\obj\Debug\xo.csprojAssemblyReference.cache
+C:\VS2019\ro\xo\xo\xo\obj\Debug\xo.csproj.CoreCompileInputs.cache
+C:\VS2019\ro\xo\xo\xo\obj\Debug\xo.exe
+C:\VS2019\ro\xo\xo\xo\obj\Debug\xo.pdb
+C:\VS2019\CIIProjects\xo\xo\bin\Debug\xo.exe.config
+C:\VS2019\CIIProjects\xo\xo\bin\Debug\xo.exe
+C:\VS2019\CIIProjects\xo\xo\bin\Debug\xo.pdb
+C:\VS2019\CIIProjects\xo\xo\obj\Debug\xo.csprojAssemblyReference.cache
+C:\VS2019\CIIProjects\xo\xo\obj\Debug\xo.csproj.CoreCompileInputs.cache
+C:\VS2019\CIIProjects\xo\xo\obj\Debug\xo.exe
+C:\VS2019\CIIProjects\xo\xo\obj\Debug\xo.pdb
